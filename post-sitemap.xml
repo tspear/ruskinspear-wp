@@ -120,38 +120,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.ruskinspear.com/ra-summer-exhibition/</loc>
-		<lastmod>2019-05-02T22:20:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-dinner-1950s.png</image:loc>
-			<image:title><![CDATA[RA-dinner-1950s]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-hanging-commit.png</image:loc>
-			<image:caption><![CDATA[RA-hanging-commit]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-hanging.png</image:loc>
-			<image:caption><![CDATA[RA-hanging]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-ra-poem.png</image:loc>
-			<image:caption><![CDATA[ruskin-spear-ra-poem]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-after-the-hanging.jpg</image:loc>
-			<image:caption><![CDATA[ruskin-spear-after-the-hanging]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/note-about-hanging.png</image:loc>
-			<image:caption><![CDATA[note-about-hanging]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-dinner-1950s.png</image:loc>
-			<image:caption><![CDATA[RA-dinner-1950s]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.ruskinspear.com/art-underground-prints-sale/</loc>
 		<lastmod>2019-05-02T22:20:17+00:00</lastmod>
 		<image:image>
@@ -216,8 +184,40 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.ruskinspear.com/ra-summer-exhibition/</loc>
+		<lastmod>2019-05-02T22:55:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-dinner-1950s.png</image:loc>
+			<image:title><![CDATA[RA-dinner-1950s]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-hanging-commit.png</image:loc>
+			<image:caption><![CDATA[RA-hanging-commit]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-hanging.png</image:loc>
+			<image:caption><![CDATA[RA-hanging]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-ra-poem.png</image:loc>
+			<image:caption><![CDATA[ruskin-spear-ra-poem]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-after-the-hanging.jpg</image:loc>
+			<image:caption><![CDATA[ruskin-spear-after-the-hanging]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/note-about-hanging.png</image:loc>
+			<image:caption><![CDATA[note-about-hanging]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-dinner-1950s.png</image:loc>
+			<image:caption><![CDATA[RA-dinner-1950s]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://www.ruskinspear.com/a-new-book-on-ruskins-work/</loc>
-		<lastmod>2019-05-02T22:40:26+00:00</lastmod>
+		<lastmod>2019-05-05T17:39:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/05/francis-bacon-ruskin-spear.png</image:loc>
 			<image:title><![CDATA[francis-bacon-ruskin-spear]]></image:title>
