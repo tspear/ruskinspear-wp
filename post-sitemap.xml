@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.ruskinspear.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.ruskinspear.com/</loc>
-		<lastmod>2019-05-06T20:29:22+01:00</lastmod>
+		<loc>https://www.ruskinspear.com/blog/</loc>
+		<lastmod>2019-09-12T21:26:32+01:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.ruskinspear.com/ra-artist-month/</loc>
@@ -183,23 +183,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.ruskinspear.com/pierre-bonnard-the-colour-of-memory-exhibition-at-tate-modern-tate/</loc>
-		<lastmod>2019-05-06T20:25:35+01:00</lastmod>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/N05414_9.jpg</image:loc>
-			<image:title><![CDATA[Coffee 1915 by Pierre Bonnard 1867-1947]]></image:title>
-			<image:caption><![CDATA[Image of Pierre Bonnard - "Coffee" 1915]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/N05414_9.jpg</image:loc>
-			<image:caption><![CDATA[Image of Pierre Bonnard - "Coffee" 1915]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/theteatable.jpg</image:loc>
-			<image:caption><![CDATA[Spear, Ruskin; The Tea Table]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://www.ruskinspear.com/modern-british-art-sale-10-july/</loc>
 		<lastmod>2019-05-06T20:26:06+01:00</lastmod>
 		<image:image>
@@ -225,6 +208,36 @@
 		<image:image>
 			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/02/Unknown.jpeg</image:loc>
 			<image:title><![CDATA[Unknown]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ruskinspear.com/pierre-bonnard-the-colour-of-memory-exhibition-at-tate-modern-tate/</loc>
+		<lastmod>2019-05-08T17:54:59+01:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/N05414_9.jpg</image:loc>
+			<image:title><![CDATA[Coffee 1915 by Pierre Bonnard 1867-1947]]></image:title>
+			<image:caption><![CDATA[Image of Pierre Bonnard - "Coffee" 1915]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/N05414_9.jpg</image:loc>
+			<image:caption><![CDATA[Image of Pierre Bonnard - "Coffee" 1915]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/theteatable.jpg</image:loc>
+			<image:caption><![CDATA[Spear, Ruskin; The Tea Table]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ruskinspear.com/mrs-lowry-son/</loc>
+		<lastmod>2019-09-12T21:26:32+01:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/09/Ruskin-spear-ls-lowry-1976.jpeg</image:loc>
+			<image:title><![CDATA[Ruskin-spear-ls-lowry-1976]]></image:title>
+			<image:caption><![CDATA[Portrait of the artist LS Lowry by Ruskin Spear]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/09/Ruskin-spear-ls-lowry-1976.jpeg</image:loc>
+			<image:caption><![CDATA[Portrait of the artist LS Lowry by Ruskin Spear]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
