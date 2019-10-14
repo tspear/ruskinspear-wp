@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://www.ruskinspear.com/blog/</loc>
-		<lastmod>2019-09-12T21:26:32+01:00</lastmod>
+		<lastmod>2019-10-14T21:13:23+01:00</lastmod>
 	</url>
 	<url>
 		<loc>https://www.ruskinspear.com/ra-artist-month/</loc>
@@ -49,8 +49,37 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.ruskinspear.com/exhibition-anthony-green-and-friends/</loc>
+		<loc>https://www.ruskinspear.com/the-arty-tie/</loc>
 		<lastmod>2019-05-02T23:20:17+01:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-the-arty-tie.jpg</image:loc>
+			<image:title><![CDATA[ruskin-spear-the-arty-tie]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-the-arty-tie.jpg</image:loc>
+			<image:caption><![CDATA[ruskin-spear-the-arty-tie]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ruskinspear.com/welcome/</loc>
+		<lastmod>2019-05-06T20:29:22+01:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/02/Unknown.jpeg</image:loc>
+			<image:title><![CDATA[Unknown]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ruskinspear.com/ruskin-spear-r-a-1911-1990-public-bar-study-for-mr-hollingberrys-canary-20th-century-paintings-christies/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2018/03/ruskin-spear-public-bar.jpg</image:loc>
+			<image:title><![CDATA[ruskin-spear-public-bar]]></image:title>
+			<image:caption><![CDATA[ruskin-spear-public-bar]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ruskinspear.com/exhibition-anthony-green-and-friends/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
 		<image:image>
 			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2018/05/ENA-1-ZAC0785.jpg</image:loc>
 			<image:title><![CDATA[ENA-1-ZAC0785]]></image:title>
@@ -67,70 +96,36 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.ruskinspear.com/the-arty-tie/</loc>
-		<lastmod>2019-05-02T23:20:17+01:00</lastmod>
+		<loc>https://www.ruskinspear.com/modern-british-art-sale-10-july/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
 		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-the-arty-tie.jpg</image:loc>
-			<image:title><![CDATA[ruskin-spear-the-arty-tie]]></image:title>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2018/07/img_8932.jpg</image:loc>
+			<image:title><![CDATA[img_8932]]></image:title>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-the-arty-tie.jpg</image:loc>
-			<image:caption><![CDATA[ruskin-spear-the-arty-tie]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.ruskinspear.com/art-underground-prints-sale/</loc>
-		<lastmod>2019-05-02T23:20:17+01:00</lastmod>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-art-on-the-underground.jpg</image:loc>
-			<image:title><![CDATA[ruskin-spear-art-on-the-underground]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-art-on-the-underground.jpg</image:loc>
-			<image:caption><![CDATA[ruskin-spear-art-on-the-underground]]></image:caption>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2018/07/img_8932.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.ruskinspear.com/the-queen-at-90/</loc>
-		<lastmod>2019-05-02T23:20:17+01:00</lastmod>
+		<loc>https://www.ruskinspear.com/pierre-bonnard-the-colour-of-memory-exhibition-at-tate-modern-tate/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
 		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-the-headscarf.jpg</image:loc>
-			<image:title><![CDATA[ruskin-spear-the-headscarf]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.ruskinspear.com/rodrigo-moynihan-portrait-group-1951/</loc>
-		<lastmod>2019-05-02T23:20:17+01:00</lastmod>
-	</url>
-	<url>
-		<loc>https://www.ruskinspear.com/david-hockney-exhibition-at-tate-britain/</loc>
-		<lastmod>2019-05-02T23:20:17+01:00</lastmod>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2017/02/ruskin-spear-carel-weight.jpg</image:loc>
-			<image:title><![CDATA[Professor Carel Weight 1961 by Ruskin Spear 1911-1990]]></image:title>
-			<image:caption><![CDATA[Professor Carel Weight 1961 by Ruskin Spear 1911-1990]]></image:caption>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/N05414_9.jpg</image:loc>
+			<image:title><![CDATA[Coffee 1915 by Pierre Bonnard 1867-1947]]></image:title>
+			<image:caption><![CDATA[Image of Pierre Bonnard - "Coffee" 1915]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2017/02/ruskin-spear-carel-weight.jpg</image:loc>
-			<image:caption><![CDATA[Professor Carel Weight 1961 by Ruskin Spear 1911-1990]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.ruskinspear.com/discovered-strawberry-mousse-1959/</loc>
-		<lastmod>2019-05-02T23:20:17+01:00</lastmod>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2017/01/ruskin-spear-strawberry-mousse.jpg</image:loc>
-			<image:title><![CDATA[Strawberry Mousse]]></image:title>
-			<image:caption><![CDATA[image of strawberry mouse painting]]></image:caption>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/N05414_9.jpg</image:loc>
+			<image:caption><![CDATA[Image of Pierre Bonnard - "Coffee" 1915]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2017/01/ruskin-spear-strawberry-mousse.jpg</image:loc>
-			<image:caption><![CDATA[image of strawberry mouse painting]]></image:caption>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/theteatable.jpg</image:loc>
+			<image:caption><![CDATA[Spear, Ruskin; The Tea Table]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://www.ruskinspear.com/ra-summer-exhibition/</loc>
-		<lastmod>2019-05-02T23:55:05+01:00</lastmod>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
 		<image:image>
 			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/RA-dinner-1950s.png</image:loc>
 			<image:title><![CDATA[RA-dinner-1950s]]></image:title>
@@ -161,8 +156,40 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://www.ruskinspear.com/art-underground-prints-sale/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-art-on-the-underground.jpg</image:loc>
+			<image:title><![CDATA[ruskin-spear-art-on-the-underground]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-art-on-the-underground.jpg</image:loc>
+			<image:caption><![CDATA[ruskin-spear-art-on-the-underground]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ruskinspear.com/a-new-book-on-ruskins-work/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/05/francis-bacon-ruskin-spear.png</image:loc>
+			<image:title><![CDATA[francis-bacon-ruskin-spear]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ruskinspear.com/the-queen-at-90/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/04/ruskin-spear-the-headscarf.jpg</image:loc>
+			<image:title><![CDATA[ruskin-spear-the-headscarf]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.ruskinspear.com/rodrigo-moynihan-portrait-group-1951/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
+	</url>
+	<url>
 		<loc>https://www.ruskinspear.com/winter-sea-painting-at-auction/</loc>
-		<lastmod>2019-05-06T11:29:50+01:00</lastmod>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
 		<image:image>
 			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/11/img_0383.jpg</image:loc>
 			<image:title><![CDATA[Winter_Sea]]></image:title>
@@ -175,61 +202,34 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.ruskinspear.com/a-new-book-on-ruskins-work/</loc>
-		<lastmod>2019-05-06T20:17:31+01:00</lastmod>
+		<loc>https://www.ruskinspear.com/david-hockney-exhibition-at-tate-britain/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
 		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/05/francis-bacon-ruskin-spear.png</image:loc>
-			<image:title><![CDATA[francis-bacon-ruskin-spear]]></image:title>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2017/02/ruskin-spear-carel-weight.jpg</image:loc>
+			<image:title><![CDATA[Professor Carel Weight 1961 by Ruskin Spear 1911-1990]]></image:title>
+			<image:caption><![CDATA[Professor Carel Weight 1961 by Ruskin Spear 1911-1990]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2017/02/ruskin-spear-carel-weight.jpg</image:loc>
+			<image:caption><![CDATA[Professor Carel Weight 1961 by Ruskin Spear 1911-1990]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.ruskinspear.com/modern-british-art-sale-10-july/</loc>
-		<lastmod>2019-05-06T20:26:06+01:00</lastmod>
+		<loc>https://www.ruskinspear.com/discovered-strawberry-mousse-1959/</loc>
+		<lastmod>2019-10-14T21:13:07+01:00</lastmod>
 		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2018/07/img_8932.jpg</image:loc>
-			<image:title><![CDATA[img_8932]]></image:title>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2017/01/ruskin-spear-strawberry-mousse.jpg</image:loc>
+			<image:title><![CDATA[Strawberry Mousse]]></image:title>
+			<image:caption><![CDATA[image of strawberry mouse painting]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2018/07/img_8932.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.ruskinspear.com/ruskin-spear-r-a-1911-1990-public-bar-study-for-mr-hollingberrys-canary-20th-century-paintings-christies/</loc>
-		<lastmod>2019-05-06T20:27:34+01:00</lastmod>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2018/03/ruskin-spear-public-bar.jpg</image:loc>
-			<image:title><![CDATA[ruskin-spear-public-bar]]></image:title>
-			<image:caption><![CDATA[ruskin-spear-public-bar]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.ruskinspear.com/welcome/</loc>
-		<lastmod>2019-05-06T20:29:22+01:00</lastmod>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2016/02/Unknown.jpeg</image:loc>
-			<image:title><![CDATA[Unknown]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://www.ruskinspear.com/pierre-bonnard-the-colour-of-memory-exhibition-at-tate-modern-tate/</loc>
-		<lastmod>2019-05-08T17:54:59+01:00</lastmod>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/N05414_9.jpg</image:loc>
-			<image:title><![CDATA[Coffee 1915 by Pierre Bonnard 1867-1947]]></image:title>
-			<image:caption><![CDATA[Image of Pierre Bonnard - "Coffee" 1915]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/N05414_9.jpg</image:loc>
-			<image:caption><![CDATA[Image of Pierre Bonnard - "Coffee" 1915]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/01/theteatable.jpg</image:loc>
-			<image:caption><![CDATA[Spear, Ruskin; The Tea Table]]></image:caption>
+			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2017/01/ruskin-spear-strawberry-mousse.jpg</image:loc>
+			<image:caption><![CDATA[image of strawberry mouse painting]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://www.ruskinspear.com/mrs-lowry-son/</loc>
-		<lastmod>2019-09-12T21:26:32+01:00</lastmod>
+		<lastmod>2019-10-14T21:13:23+01:00</lastmod>
 		<image:image>
 			<image:loc>https://www.ruskinspear.com/wp-content/uploads/2019/09/Ruskin-spear-ls-lowry-1976.jpeg</image:loc>
 			<image:title><![CDATA[Ruskin-spear-ls-lowry-1976]]></image:title>
